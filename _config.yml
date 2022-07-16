@@ -20,7 +20,7 @@
 
 title: Developer Productivity & Developer Experience
 description: >- # this means to ignore newlines until "baseurl:"
-  A collection of resources and thoughts about Developer Productivity & Developer Experience
+  Stuff I don't want to lose & stuff I want to share.  A collection of resources and thoughts about Developer Productivity & Developer Experience.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sploschee.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elleviem
